@@ -6,7 +6,7 @@ A nice simple function to send emails with Amazon's SES service using PHP
 
 Verify an email address or domain in the SES console - it won't work without this.
 
-Put in a service request for however many emails a day you want to be able to send, cross hyour fingers.
+Put in a service request for however many emails a day you want to be able to send, cross your fingers.
 (Until you do this, you can only send to email addresses and domains you have validated so you can still test)
 
 Add your AWS Key and Secret to send_email.inc.php
